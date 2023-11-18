@@ -16,7 +16,7 @@ overlay.style.cssText = `
 
 const svgImage = document.createElement('img');
 svgImage.id = 'svgImage';
-svgImage.src = 'https://github.com/RoboduckNL/preloaderFFhc/blob/main/760.svg';
+svgImage.src = 'https://raw.githubusercontent.com/RoboduckNL/preloaderFFhc/6bf85a1690c3fa9cf324916a948e1d029718ade4/760.svg';
 svgImage.style.cssText = `
     max-width: 100%;
     max-height: 100%;
